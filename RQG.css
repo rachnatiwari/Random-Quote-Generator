@@ -1,0 +1,86 @@
+body{
+    font-family : Roboto;
+    text-align : center;
+    background: url(public/1.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  
+  h1{
+    color : #0A0E85;
+    text-transform : uppercase;
+  }
+  
+  #quote-box{
+    border : 3px solid black  ;
+    margin-left: 15%;
+    margin-top: 15%;
+    /* padding : 15px 15px; */
+    width : 40%;
+    height : 40%;
+    background : black ;
+    opacity: 80%;
+    color : #ffdde1;
+    border-radius : 30px;
+  }
+  
+  #text{
+    color : #ffdde1;
+    font-size: 1.4em;
+    padding: 5% 10%;
+  }
+  
+  #author{
+    color : #ffdde1;
+    padding-right: 5%;
+  }
+  
+  #author{
+    text-align : right;
+  }
+  
+  #footer{
+    position:absolute;
+    top:1%;
+    left:0;
+    margin-left: 2%;
+    /* margin-top: 0 !important; */
+    display: inline-block;
+  }
+  
+  #new-quote{
+    color : rgba(0, 0, 0, 0.9);
+    background : white;
+    border-radius : 10px;
+    height : 10%;
+    width : 100%;
+    padding: 0.7em 0.7em;
+    outline : none !important;
+    font-size: 1.01em;
+  }
+
+  #add-new{
+    margin-top: 2%;
+    color : rgba(0, 0, 0, 0.9);
+    background : white;
+    border-radius : 10px;
+    height : 10%;
+    width : 100%;
+    padding: 0.7em 0.7em;
+    outline : none !important;
+    font-size: 1.01em;
+  }
+  
+  #new-quote:hover{
+    background : maroon;
+    opacity: 0.8;
+    color: mintcream;
+  }
+  
+  #add-new:hover{
+    background : maroon;
+    opacity: 0.8;
+    color: mintcream;
+  }
