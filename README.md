@@ -2,7 +2,7 @@
 
 # Random Quote Generator
 
-- To all Grey's Anatomy fans like me, here is a compilation of my favourite quotes from the show. You are welcome to add some of yours as well!! 
+- To all Grey's Anatomy fans like me, here is a compilation of my favourite quotes from the show. You are welcome to add some of your favourite as well!! 
 - Here is my live [website](https://greysanatomyquotes.herokuapp.com/)
 
 ## Technology
